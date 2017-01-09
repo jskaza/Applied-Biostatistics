@@ -2,9 +2,9 @@
 layout: default
 title: Welcome
 ---
-<div markdown="1">
+
 - Linear Regression
 - Generalized Linear Models
 - Longitudinal Data Analysis
-</div>
+
 
